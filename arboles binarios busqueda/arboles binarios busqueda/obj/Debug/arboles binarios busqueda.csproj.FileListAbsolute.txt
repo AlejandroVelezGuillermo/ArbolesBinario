@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\bin\Debug\arboles binarios busqueda.exe.config
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\bin\Debug\arboles binarios busqueda.exe
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\bin\Debug\arboles binarios busqueda.pdb
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles_binarios_busqueda.Form1.resources
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles_binarios_busqueda.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.exe
+C:\Users\soned\Videos\programas VS\arboles binarios busqueda\arboles binarios busqueda\obj\Debug\arboles binarios busqueda.pdb
